@@ -3,9 +3,10 @@
 ### 💻 Full-Stack Web Developer | Software Engineering Student
 
 I'm **Mahdiar Vaez**, a software development student and web developer from Iran.
-I enjoy building modern, scalable web applications and exploring how things work under the hood.
 
-Currently, I'm focused on **Full-Stack JavaScript development**, backend architecture, DevOps, and AI-powered applications.
+I enjoy building modern, scalable web applications and exploring how software works under the hood.
+
+Currently, I'm focused on **Full-Stack JavaScript/TypeScript development, backend architecture, DevOps, and AI-powered applications.**
 
 ---
 
@@ -14,40 +15,46 @@ Currently, I'm focused on **Full-Stack JavaScript development**, backend archite
 * 🎓 Software Engineering student at **Shahid Montazeri Technical University**
 * 💻 3+ years of experience in **Web Development**
 * 🌐 Mainly working with **JavaScript / TypeScript**
-* ⚛️ Building applications with **React & Next.js**
-* 🟢 Working with **Node.js, Express & NestJS**
-* 🗄️ Experienced with **MongoDB, MySQL & PostgreSQL**
-* 🐳 Learning and working with **Docker, CI/CD & Linux**
-* 🤖 Exploring **AI applications, AI agents & Computer Vision**
-* 🏗️ Interested in **software architecture, scalable systems and clean code**
+* ⚛️ Building modern applications with **React & Next.js**
+* 🟢 Working with **Node.js, Express.js & NestJS**
+* 🗄️ Working with **MongoDB, PostgreSQL, MySQL & SQL Server**
+* 🐳 Working with **Docker, Linux, Nginx & CI/CD**
+* 🤖 Exploring **AI applications, AI Agents & Computer Vision**
+* 🏗️ Interested in **Software Architecture, System Design & Clean Code**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-`JavaScript` `TypeScript` `React` `Next.js` 
-and their third party libraries
-### Backend
+`JavaScript` `TypeScript` `React` `Next.js`
+
+
+
+
+
+and other React / frontend ecosystem libraries.
+
+### ⚙️ Backend
 
 `Node.js` `Express.js` 
 
-`REST API` 
+`REST API`
 
-### Databases
+### 🗄️ Databases
 
 `MongoDB` `PostgreSQL` `MySQL` `SQL Server`
 
-### DevOps & Tools
+### 🐳 DevOps & Tools
 
 `Git` `GitHub` `GitLab` `Docker` `Nginx`
 
 `Linux` `PM2` `CI/CD` `Cloudflare`
 
-### AI & Other
+### 🤖 AI & Other
 
-`Python` `Computer Vision` `AI Agents`
+`Python` `Computer Vision` `AI Agents` `LLM Applications`
 
 ---
 
@@ -59,19 +66,67 @@ I'm currently exploring **AI-powered software development workflows**, including
 * 🧠 Agentic Workflows
 * 📋 Spec-Driven Development (SDD)
 * 🏗️ Software Architecture & System Design
-* 🔄 Automated development workflows
-* 🧩 AI-powered developer tools
+* 🔄 Automated Development Workflows
+* 🧩 AI-powered Developer Tools
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced **Next.js & React**
-* **NestJS** and backend architecture
-* **Docker & DevOps**
-* **System Design**
-* **AI Agents & LLM applications**
-* **Computer Vision**
+* ⚛️ Advanced **React & Next.js**
+* 🟢 **NestJS** and backend architecture
+* 🐳 **Docker & DevOps**
+* 🏗️ **System Design**
+* 🤖 **AI Agents & LLM Applications**
+* 👁️ **Computer Vision**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mahdiar-Vaez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="Mahdiar's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiar-Vaez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Mahdiar's Top Languages"
+  />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiar-Vaez&theme=tokyo-night&hide_border=true"
+    alt="Mahdiar's GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mahdiar-Vaez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="Mahdiar's GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Mahdiar-Vaez&theme=tokyonight&hide_border=true"
+    alt="Mahdiar's GitHub Contribution Streak"
+  />
+</p>
 
 ---
 
@@ -84,7 +139,7 @@ I'm interested in collaborating on:
 * 🤖 AI-powered applications
 * 🧠 Developer tools
 * 👥 Open-source projects
-* 🏗️ Software architecture and backend projects
+* 🏗️ Backend & Software Architecture projects
 
 If you're building something interesting, feel free to reach out.
 
@@ -93,7 +148,7 @@ If you're building something interesting, feel free to reach out.
 ## 📫 Contact
 
 * 📧 **Email:** [mahdyarvaez@gmail.com](mailto:mahdyarvaez@gmail.com)
-* 💻 **GitHub:** [@Mahdiar-Vaez](https://github.com/Mahdiar-Vaez)
+* 💻 **GitHub:** https://github.com/Mahdiar-Vaez
 
 ---
 
@@ -101,6 +156,13 @@ If you're building something interesting, feel free to reach out.
 
 > I enjoy turning ideas into working software — from the first architecture diagram to deployment. 🚀
 
+---
+
+<p align="center">
+  <i>Building. Learning. Shipping. Repeating. 🚀</i>
+</p>
+
 <!---
-Mahdiar-Vaez/Mahdiar-Vaez is a ✨ special ✨ repository because its README.md file appears on your GitHub profile.
+Mahdiar-Vaez/Mahdiar-Vaez is a ✨ special ✨ repository because this README.md
+appears on your GitHub profile.
 --->
